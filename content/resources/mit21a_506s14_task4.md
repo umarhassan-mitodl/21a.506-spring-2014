@@ -5,6 +5,8 @@ description: "This file contains information regarding task 2: written report\u2
 file: /courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/c6de7a6f3373741fce2755946dd92ce6_MIT21A_506S14_Task4.pdf
 file_size: 59540
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
