@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, objectives, methodology, assignments, grading policy,
   student responsibilities, and reading materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -129,7 +127,7 @@ Student Responsibilities
 
 Students must come to class and participate actively in class discussions. If you miss a class, it is your responsibility to catch-up. It is your responsibility to inform the instructor of any missed classes or assignments
 
-For all research reports, students must cite research sources using the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html).
+For all research reports, students must cite research sources using the {{% resource_link "a85f473e-5d00-4252-bd65-ae125c3d9fb0" "Chicago Manual of Style" %}}.
 
 If you miss a deadline without a valid excuse (religious observance, illness, family calamity, circumstances beyond your control), a penalty of 5 points will be applied for every day past the deadline. For example, if the original assignment was worth 20 points, the day after the deadline your work will be worth a maximum of 15 points.
 
@@ -140,7 +138,7 @@ Reading Materials
 
 The required books for this course are:
 
-Dezalay, Yves, and Bryant G. Garth. _The Internationalization of Palace Wars: Lawyers, Economists, and the Contest to Transform Latin American States_. University of Chicago Press, 2002. ISBN: 9780226144269. \[Preview with [Google Books](http://books.google.com/books?id=2vq_siMEzRIC&printsec=frontcover)\]
+Dezalay, Yves, and Bryant G. Garth. _The Internationalization of Palace Wars: Lawyers, Economists, and the Contest to Transform Latin American States_. University of Chicago Press, 2002. ISBN: 9780226144269. \[Preview with {{% resource_link "b2c65752-b10a-40f6-aa11-95dc468ee251" "Google Books" %}}\]
 
 Harding, James. _Alpha Dogs: The Americans who Turned Political Spin into a Global Business_. Farrar, Strauss and Giroux, 2009. ISBN: 9780374531751.
 
